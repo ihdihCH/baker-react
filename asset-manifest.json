@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/baker-react/static/css/main.a191c3b6.css",
+    "main.js": "/baker-react/static/js/main.acaa1c59.js",
+    "static/media/bakerHero.webp": "/baker-react/static/media/bakerHero.069cfa279c3fc920c06f.webp",
+    "static/media/About2.webp": "/baker-react/static/media/About2.9bcfe0bc33ba7be031d0.webp",
+    "static/media/About1.webp": "/baker-react/static/media/About1.65f36034762962fa5965.webp",
+    "static/media/feautres1.webp": "/baker-react/static/media/feautres1.ae98531c8dce2d3029f6.webp",
+    "static/media/feautres3.webp": "/baker-react/static/media/feautres3.fa37a8795ef73dd6244e.webp",
+    "static/media/feautres2.webp": "/baker-react/static/media/feautres2.b0bcf94997c99731e32d.webp",
+    "static/media/contactImg.svg": "/baker-react/static/media/contactImg.4062a8617bc574d726bbd97bc411d879.svg",
+    "static/media/logo1.png": "/baker-react/static/media/logo1.0a69ae98afa96324ff82.png",
+    "index.html": "/baker-react/index.html",
+    "main.a191c3b6.css.map": "/baker-react/static/css/main.a191c3b6.css.map",
+    "main.acaa1c59.js.map": "/baker-react/static/js/main.acaa1c59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a191c3b6.css",
+    "static/js/main.acaa1c59.js"
+  ]
+}
